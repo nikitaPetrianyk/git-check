@@ -9,6 +9,9 @@ function App() {
         <h1>Checking git</h1>
         <p>some description</p>
         <p>another description</p>
+        <nav>
+          <a href="#">Navigation link</a>
+        </nav>
       </header>
     </div>
   );
