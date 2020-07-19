@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Checking git</h1>
+        <p>some description</p>
       </header>
     </div>
   );
