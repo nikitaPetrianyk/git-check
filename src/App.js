@@ -8,6 +8,7 @@ function App() {
       <header className="App-header">
         <h1>Checking git</h1>
         <p>some description</p>
+        <p>another description</p>
       </header>
     </div>
   );
