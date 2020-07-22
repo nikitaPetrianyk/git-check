@@ -1,0 +1,29 @@
+[33mcommit b33317353d240dc3c5caf2f2e6db23bf47ebbcc8[m[33m ([m[1;36mHEAD -> [m[1;32mfeat/add-html-tags[m[33m, [m[1;31morigin/feat/add-navigation[m[33m, [m[1;32mfeat/add-navigation[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Nikita <nikitos5153@gmail.com>
+Date:   Sun Jul 19 16:28:25 2020 +0300
+
+    added navigation
+
+[33mcommit 2f48e0c2d6b715331d6e5b4c43b9992842bcfef9[m[33m ([m[1;31morigin/feat/add-html-tags[m[33m, [m[1;31morigin/develop[m[33m)[m
+Author: Nikita <nikitos5153@gmail.com>
+Date:   Sun Jul 19 16:23:07 2020 +0300
+
+    added another description
+
+[33mcommit c111ed4d064832da7dc1a279d1d9d77214554577[m
+Author: Nikita <nikitos5153@gmail.com>
+Date:   Sun Jul 19 15:56:25 2020 +0300
+
+    added description
+
+[33mcommit 1ed9ea0985165e068f75d90e6b454fece0e1e9b8[m
+Author: Nikita <nikitos5153@gmail.com>
+Date:   Sun Jul 19 15:49:12 2020 +0300
+
+    added title
+
+[33mcommit 3a1b6783f9f58e9e86f53370f21da41d137a584c[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Nikita <nikitos5153@gmail.com>
+Date:   Sun Jul 19 15:36:05 2020 +0300
+
+    Initialize project using Create React App

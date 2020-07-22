@@ -13,6 +13,7 @@ function App() {
           <a href="#">Navigation link</a>
         </nav>
       </header>
+      <main>Main</main>
     </div>
   );
 }
